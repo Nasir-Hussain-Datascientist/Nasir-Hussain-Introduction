@@ -2,7 +2,6 @@
 ## Data Scientist | Machine Learning Enthusiast | Business Intelligence Expert  
 
 📧 Email: [nasir.swat.hussain@gmail.com](mailto:nasir.swat.hussain@gmail.com)  
-🌐 Portfolio: [nasir-hussain-portfolio.vercel.app](https://nasir-hussain-portfolio.vercel.app)  
 💼 LinkedIn: [linkedin.com/in/nasir-hussain-swat](https://www.linkedin.com/in/nasir-hussain-swat)  
 📂 GitHub: [github.com/Nasir-Hussain-Datascientist](https://github.com/Nasir-Hussain-Datascientist)  
 
